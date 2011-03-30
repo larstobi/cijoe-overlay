@@ -1,0 +1,6 @@
+# ChangeLog for dev-ruby/cijoe
+# Copyright 2011 Gentoo Foundation; Distributed under the GPL v2
+
+  30 Mar 2011; Lars Tobias Skjong-Borsting
+  cijoe-0.9.1.ebuild:
+  Initial import.
